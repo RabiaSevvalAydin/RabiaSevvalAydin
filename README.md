@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rabia
-- 🎓 I'm a computer engineering student at Marmara University. 
+- 🎓 I'm a student at Marmara University majoring in computer engineering. 
 - 💻 I primarily worked on projects using Java and Python, but currently I'm trying to learn different technologies. 
 - 💬 You can reach me on rabia.s.aydin@gmail.com
 <!--
