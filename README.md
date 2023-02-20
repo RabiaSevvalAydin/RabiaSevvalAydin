@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rabia Şevval Aydın
+### Hi there 👋, I'm Rabia
 - 🎓 I'm currently studying Computer Engineering in Marmara University.
 - 💻 I primarily worked on projects using Java and Python, but currently I'm trying to learn different technologies. 
 - 💬 You can reach me on rabia.s.aydin@gmail.com
