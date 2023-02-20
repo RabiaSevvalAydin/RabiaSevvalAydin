@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rabia Şevval Aydın
 - 🎓 I'm currently studying Computer Engineering in Marmara University.
-- 💻 I primarily worked on projects using Java and Python, but I am trying to learn different technologies. 
+- 💻 I primarily worked on projects using Java and Python, but currently I'm trying to learn different technologies. 
 - 💬 You can reach me on rabia.s.aydin@gmail.com
 <!--
 **RabiaSevvalAydin/RabiaSevvalAydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
