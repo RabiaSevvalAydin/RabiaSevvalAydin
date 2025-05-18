@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rabia
 - 🎓 I'm a senior student at Marmara University majoring in computer engineering. 
-- 💻 I primarily worked on neural networks projects using PyTorch and Tenserflow.
+- 💻 I primarily worked on neural networks projects using PyTorch and Tensorflow.
 - 💬 You can reach me on rabia.s.aydin@gmail.com
 <!--
 **RabiaSevvalAydin/RabiaSevvalAydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
